@@ -1,6 +1,6 @@
 # 📰SchooterNews with NewsAPI 
 
-Aplikasi berita yang dibuat dengan Kotlin di Android. [NewsAPI](https://newsapi.org/) digunakan untuk aplikasi ini. Dalam proyek ini, [arsitektur aplikasi yang direkomendasikan](https://developer.android.com/topic/architecture#recommended-app-arch) lebih disukai.
+Aplikasi berita yang dibuat dengan Kotlin di Android. [NewsAPI](https://newsapi.org/) digunakan untuk aplikasi ini. Dalam proyek ini saya menggunakan, [arsitektur aplikasi yang direkomendasikan](https://developer.android.com/topic/architecture#recommended-app-arch) lebih disukai.
 
 ## 🛠 Learning Resources
 
